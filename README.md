@@ -12,7 +12,7 @@ A página deverá ser construída utilizando a tecnologia React, utilizando hook
 
 ## Tecnologias a serem utilizadas
 
-Devem ser utilizadas no mínimo(Podem ser utlizadas mais tecnologias a sua descrição), as seguintes tecnologias:
+Devem ser utilizadas no mínimo (podem ser utlizadas mais tecnologias a sua descrição), as seguintes tecnologias:
 
 - HTML
 - CSS
